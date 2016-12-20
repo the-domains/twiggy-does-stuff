@@ -1,0 +1,21 @@
+typography_spectrum: 0.2237253189086914
+color:
+  brandStrength: 0.812529087997973
+  lightness: 0.7116614975966513
+  saturation: 0.35710397991351783
+  rhythmicContrast: 0.7347704325802624
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+github: true
+layout_spectrum: 0.22614455386064947
+author:
+  name: Evan Grayson
+  email: evangrayson95@gmail.com
+name: MrKatz Does Stuff
+title: The fuck do I do here?
+content: []
+description: I do stuff. Sometimes.
